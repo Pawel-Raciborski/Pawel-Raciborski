@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🙋 About Me: </br>
+<h3>🙋 About Me:</h3> </br>
 A passionate, self-taught VII-semester student seeking their first job in **backend development**.
 
 💪 Keen on explore new paths of IT. </br>
 🌱 Currently expanding my experience in Frontend development with Angular, JavaScript, and TypeScript.</br>
 
-🎓 My skills:
+<h3>🎓 My skills:</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
