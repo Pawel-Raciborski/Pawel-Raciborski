@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 🙋 About Me:
 A passionate, self-taught VII-semester student seeking their first job in **backend development**.
 
-💪 Keen on explore new paths of IT. 
-🌱 Currently expanding my experience in Frontend development with Angular, JavaScript, and TypeScript.
+- 💪 Keen on explore new paths of IT. 
+- 🌱 Currently expanding my experience in Frontend development with Angular, JavaScript, and TypeScript.
 
 🎓 My skills:
 
