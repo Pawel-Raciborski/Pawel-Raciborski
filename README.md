@@ -25,7 +25,7 @@ A passionate, self-taught VII-semester student seeking their first job in **back
 <h3 align="left">Languages and Tools:</h3>
 <div>
   <h4>Programming languages</h4>
-  <p align="center">
+  <p align="left">
     <a style="margin:3px" href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a>
@@ -36,7 +36,7 @@ A passionate, self-taught VII-semester student seeking their first job in **back
 </div>
 <div>
   <h4>Frontend</h4>
-  <p align="center">
+  <p align="left">
     <a style="margin:3px" href="https://angular.io" target="_blank" rel="noreferrer"> 
       <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
     </a>
