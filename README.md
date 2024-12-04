@@ -23,6 +23,9 @@ A passionate, self-taught VII-semester student seeking their first job in **back
 🎓 My skills:
 
 <h3 align="left">Languages and Tools:</h3>
+<div>
+  <h4>Frontend</h4>
+</div>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
