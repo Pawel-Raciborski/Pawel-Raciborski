@@ -26,9 +26,11 @@ A passionate, self-taught VII-semester student seeking their first job in **back
 <table>
   <thead>
     <tr>
-      <th>Programming languages</th>
-      <th>Frontend</th>
-      <th>Backend</th>
+      <th><p align="center">Programming languages</p></th>
+      <th><p align="center">Frontend</p></th>
+      <th><p align="center">Backend</p></th>
+      <th><p align="center">Databases</p></th>
+      <th><p align="center">Other</p></th>
     </tr>
   </thead>
   <tbody>
@@ -87,21 +89,18 @@ A passionate, self-taught VII-semester student seeking their first job in **back
           </p>
         </div>
       </td>
-    </tr>
-  </tbody>
-</table>
-<div>
-  <h5>Databases</h5>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-</div>
-
-<h4>Other:</h4>
-<div>
+      <td>
+        <div>
+          <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+          </a>
+          <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+          </a> 
+        </div>
+      </td>
+      <td>
+        <div>
   <h5>Tools</h5>
   <p align="left">
     <a href="https://postman.com" target="_blank" rel="noreferrer"> 
@@ -118,7 +117,12 @@ A passionate, self-taught VII-semester student seeking their first job in **back
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
     </a>
   </p>
-</div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 <h4>I'm learing:</h4>
 <div>
