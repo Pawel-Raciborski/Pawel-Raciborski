@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3>🙋 About Me:</h3> </br>
-A passionate, self-taught VII-semester student seeking their first job in **backend development**.
+A passionate, self-taught VII-semester student seeking their first job in <b>backend development</b>.
 
 💪 Keen on explore new paths of IT. </br>
 🌱 Currently expanding my experience in Frontend development with Angular, JavaScript, and TypeScript.</br>
