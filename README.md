@@ -23,8 +23,9 @@ A passionate, self-taught VII-semester student seeking their first job in <b>bac
 <h3>🎓 My skills:</h3>
 
 <h4 align="left">Languages and Tools:</h4>
-<div>
-<table style="margin:auto">
+<div style="display: grid;
+    place-items: center;">
+<table>
   <thead>
     <tr>
       <th><p align="center">Programming languages</p></th>
