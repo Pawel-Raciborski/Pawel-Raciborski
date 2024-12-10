@@ -23,7 +23,8 @@ A passionate, self-taught VII-semester student seeking their first job in <b>bac
 <h3>🎓 My skills:</h3>
 
 <h4 align="left">Languages and Tools:</h4>
-<table>
+<div>
+<table style="margin:auto">
   <thead>
     <tr>
       <th><p align="center">Programming languages</p></th>
@@ -124,7 +125,7 @@ A passionate, self-taught VII-semester student seeking their first job in <b>bac
     </tr>
   </tbody>
 </table>
-
+</div>
 
 <h4>I'm learing:</h4>
 <div>
