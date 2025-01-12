@@ -191,4 +191,43 @@ A passionate, self-taught VII-semester student seeking their first job in <b>bac
             </ul>
         </td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/Pawel-Raciborski/system-kliniki-medycznej" target="_blank">Medical Clinic Management System</a></td>
+        <td><p>Project for educational purposes. It's application for management medical clinic. Consist of 4 types of users: <b>Admin, Doctor, Receptionist, Patient</b>.
+        Each of them has diffrerent permissions to the system. </p>
+        <p>Main functionallities:</p>
+        <ul>
+            <li>Creating appointments</li>
+            <li>Appointment managed by Doctor</li>
+            <li>Prescriptions</li>
+            <li>Patient management</li>
+            <li>Patient diseases management</li>
+            <li>Patient hospitalization management</li>
+        </ul>
+        <p>There are more of functionallities, this are main.</p>
+        <p>What i learned:</p>
+            <ul>
+                <li>Improved my Angular and Bootstrap skills</li>
+                <li>More Spring Boot experience (Security, WebClient)</li>
+                <li>SSL configuration</li>
+            </ul>
+        </td>
+        <td>
+            <p>Frontend</p>
+            <ul>
+                <li>Angular 18</li>
+                <li>Bootstrap</li>
+                <li>TypeScript</li>
+            </ul>
+            <p style="margin-top:5px">Backend:</p>
+            <ul>
+                <li>Spring Boot 3.3.4</li>
+                <li>Spring Security, JPA, Web</li>
+                <li>Flyway</li>
+                <li>PostgreSQL</li>
+                <li>Mapstruct</li>
+                <li>Lombok</li>
+            </ul>
+        </td>
+    </tr>
 </table>
