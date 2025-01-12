@@ -163,4 +163,32 @@ A passionate, self-taught VII-semester student seeking their first job in <b>bac
             </ul>
         </td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/Matus0811/Janusze_Informatyki" target="_blank">Janush Calendar</a></td>
+        <td><p>Group project of a simple Application for Project Management. I was responsible for creating frontend and backend by myself.</p>
+            <p>I've learned</p>
+            <ul>
+                <li>Angular Basics</li>
+                <li>Bootstrap Basics</li>
+                <li>TypeScript Basics</li>
+                <li>Client-Server Architecture</li>
+                <li>Security with JWT Authentication</li>
+            </ul>
+        </td>
+        <td>
+            <p>Frontend:</p>
+            <ul>
+                <li>Angular 17.3</li>
+                <li>Bootstrap</li>
+            </ul>
+            <p style="margin-top:5px">Backend:</p>
+            <ul>
+                <li>Spring Boot 3.2.3</li>
+                <li>Spring Modules(Security, Web, JPA)</li>
+                <li>Flyway 9.22.3</li>
+                <li>Mapstruct 1.5.5</li>
+                <li>Lombok 1.18.30</li>
+            </ul>
+        </td>
+    </tr>
 </table>
