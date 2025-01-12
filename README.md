@@ -139,3 +139,28 @@ A passionate, self-taught VII-semester student seeking their first job in <b>bac
 
 
 <h3>📁 My projects:</h3>
+<table>
+    <tr>
+        <th>Project Name</th>
+        <th>Description</th>
+        <th>Technologies</th>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Pawel-Raciborski/BattleshipConsoleGame" target="_blank">Battleship Game</a></td>
+        <td>Java Application Game created for educational purposes. Using OOP concepts, design principles (SOLID, KISS, DRY), DI. Learned Java Basics like:
+            <ul>
+                <li>Interfaces, Inheritance</li>
+                <li>Data Structures (List, Map, etc.)</li>
+                <li>Functional Programming</li>
+                <li>Math concepts</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Spring Framework 6.0.11</li>
+                <li>Gradle</li>
+                <li>Lombok 1.18.28</li>
+            </ul>
+        </td>
+    </tr>
+</table>
