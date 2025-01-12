@@ -165,7 +165,8 @@ A passionate, self-taught VII-semester student seeking their first job in <b>bac
     </tr>
     <tr>
         <td><a href="https://github.com/Matus0811/Janusze_Informatyki" target="_blank">Janush Calendar</a></td>
-        <td><p>Group project of a simple Application for Project Management. I was responsible for creating frontend and backend by myself.</p>
+        <td>
+            <p>Group project of a simple Application for Project Management. I was responsible for creating frontend and backend by myself.</p>
             <p>I've learned</p>
             <ul>
                 <li>Angular Basics</li>
@@ -235,11 +236,11 @@ A passionate, self-taught VII-semester student seeking their first job in <b>bac
         <td><p>This is simple CRUD application created for educational purposes.</p> 
             <p>Main functionalities:</p>
             <ul>
-                <p>Managing Board</p>
-                <p>CRUD Board Columns</p>
-                <p>Managing column Tasks</p>
-                <p>Comments</p>
-                <p>Assign users to tasks</p>
+                <li>Managing Board</li>
+                <li>CRUD Board Columns</li>
+                <li>Managing column Tasks</li>
+                <li>Comments</p>
+                <li>Assign users to tasks</li>
             </ul>
             <p>I've learned:</p>
             <ul>
