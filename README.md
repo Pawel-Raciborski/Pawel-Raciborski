@@ -195,7 +195,7 @@ A passionate, self-taught VII-semester student seeking their first job in <b>bac
         <td><a href="https://github.com/Pawel-Raciborski/system-kliniki-medycznej" target="_blank">Medical Clinic Management System</a></td>
         <td><p>Project for educational purposes. It's application for management medical clinic. Consist of 4 types of users: <b>Admin, Doctor, Receptionist, Patient</b>.
         Each of them has diffrerent permissions to the system. </p>
-        <p>Main functionallities:</p>
+        <p>Main functionalities:</p>
         <ul>
             <li>Creating appointments</li>
             <li>Appointment managed by Doctor</li>
@@ -204,7 +204,7 @@ A passionate, self-taught VII-semester student seeking their first job in <b>bac
             <li>Patient diseases management</li>
             <li>Patient hospitalization management</li>
         </ul>
-        <p>There are more of functionallities, this are main.</p>
+        <p>There are more of functionalities, this are main.</p>
         <p>What i learned:</p>
             <ul>
                 <li>Improved my Angular and Bootstrap skills</li>
@@ -227,6 +227,30 @@ A passionate, self-taught VII-semester student seeking their first job in <b>bac
                 <li>PostgreSQL</li>
                 <li>Mapstruct</li>
                 <li>Lombok</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Pawel-Raciborski/AplikacjeWWW/tree/main/Projekt" target="_blank">Kanban</a></td>
+        <td><p>This is simple CRUD application created for educational purposes.</p> 
+            <p>Main functionalities:</p>
+            <ul>
+                <p>Managing Board</p>
+                <p>CRUD Board Columns</p>
+                <p>Managing column Tasks</p>
+                <p>Comments</p>
+                <p>Assign users to tasks</p>
+            </ul>
+            <p>I've learned:</p>
+            <ul>
+                <li>Django Basics</li>
+                <li>Expanded Python experience</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Django 5.1.2</li>
+                <li>REST Framework</li>
             </ul>
         </td>
     </tr>
