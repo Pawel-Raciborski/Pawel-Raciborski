@@ -206,7 +206,7 @@ A passionate, self-taught VII-semester student seeking their first job in <b>bac
             <li>Patient hospitalization management</li>
         </ul>
         <p>There are more of functionalities, this are main.</p>
-        <p>What i learned:</p>
+        <p>I've learned:</p>
             <ul>
                 <li>Improved my Angular and Bootstrap skills</li>
                 <li>More Spring Boot experience (Security, WebClient)</li>
