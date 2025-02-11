@@ -137,7 +137,6 @@ A passionate, self-taught VII-semester student seeking their first job in <b>bac
   </p>
 </div>
 
-
 <h3>📁 My projects:</h3>
 <table>
     <tr>
